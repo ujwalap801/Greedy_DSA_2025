@@ -8,4 +8,6 @@
 
 ## [Lemonade_Change](https://leetcode.com/problems/lemonade-change/)
 
+## [Merge_Interval](https://leetcode.com/problems/merge-intervals/s)
+
 ## [Two_City_Scheduling](https://github.com/ujwalap801/Greedy_DSA_2025.git)
