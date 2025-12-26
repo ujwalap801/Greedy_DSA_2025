@@ -10,4 +10,6 @@
 
 ## [Merge_Interval](https://leetcode.com/problems/merge-intervals/s)
 
+## [Parition_Labels](https://leetcode.com/problems/partition-labels/)
+
 ## [Two_City_Scheduling](https://github.com/ujwalap801/Greedy_DSA_2025.git)
