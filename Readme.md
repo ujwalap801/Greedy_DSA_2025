@@ -2,6 +2,8 @@
 
 ## [Best_Time_Sell_Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 
+## [Candy](https://leetcode.com/problems/candy/description/)
+
 ## [Car_Pooling](https://leetcode.com/problems/car-pooling/description/)
 
 ## [Gas_Station](https://leetcode.com/problems/gas-station/)
