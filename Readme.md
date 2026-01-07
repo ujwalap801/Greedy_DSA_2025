@@ -18,4 +18,8 @@
 
 ## [Parition_Labels](https://leetcode.com/problems/partition-labels/)
 
+## [Plus_One](https://leetcode.com/problems/plus-one/description/)
+
+## [Task_Scheduler](https://leetcode.com/problems/task-scheduler/)
+
 ## [Two_City_Scheduling](https://github.com/ujwalap801/Greedy_DSA_2025.git)
